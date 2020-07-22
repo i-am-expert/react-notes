@@ -1,0 +1,11 @@
+1. Life Cycle Methods
+   -- FreeCodeCamp youTube video
+
+2. React Hooks
+   -- Codevolution youTube series
+
+3. React Redux
+   -- Codevolution youTube series
+
+4. React Final Form
+   -- Official Website
